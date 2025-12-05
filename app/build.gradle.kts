@@ -1,5 +1,5 @@
  import java.io.ByteArrayOutputStream
-
+ 
 plugins {
     id(Plugins.androidApplication)
     kotlin(Plugins.kotlinAndroid)
